@@ -10,4 +10,4 @@ Odgovaranje na prasanjata
 
 4. Minimalno za every statement treba da ima 5.
 
-5. Za multiple condition imame 8 kombinacii, no potrebni se 4 minimum test slucai za da bide pokrieno se.
+5. Ova testiranje gi zema validnite kombinacii od true/false za sekoj uslov i imame 8 kombinacii, no potrebni se 4 minimum test slucai za da bidat zadovoleni site.
